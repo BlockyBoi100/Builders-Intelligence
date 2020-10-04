@@ -1,5 +1,6 @@
 # Builders-Inteligence
-Cool Adaptive Programming Language
+Made for inplimenting in apps, tools, engines and more.
+With Builders Inteligence you can have Interactive coding for the front end user.
 
 ## Notes before you start
 - The Cyclone Engine is still Developing
