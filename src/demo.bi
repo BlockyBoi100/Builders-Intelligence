@@ -1,2 +1,2 @@
-print "Kernal Stats | Displays Current Version"
+print "Kernal Stats | yolo!"
 kernel about
